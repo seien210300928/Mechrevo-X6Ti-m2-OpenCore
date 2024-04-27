@@ -26,7 +26,7 @@ BigSur与Catalina的蜂窝网络驱动为[Itwm](https://github.com/OpenIntelWire
 2. 将移动磁盘设备中的ESP分区的EFI文件夹删除，替换为相应版本的EFI文件
 3. 现在您就可以使用移动磁盘设备中的OpenCore引导开始安装MacOS了 
 4. 进入安装好的MacOS
-5. 使用OpenCore Configurator挂载MacOS所在磁盘和移动磁盘设备的EPS分区
+5. 使用[OpenCore Configurator](https://github.com/HackintoshFans/OpenCoreConfigurator)挂载MacOS所在磁盘和移动磁盘设备的EPS分区
 6. 将MacOS所在磁盘的EPS分区中的EFI文件夹删除，替换为移动磁盘设备中的ESP分区的EFI文件夹
 
 ## 后续
