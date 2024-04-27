@@ -2,16 +2,22 @@
 
 ## 软件说明
 本OC引导基于[OpenCore-0.9.9](https://github.com/acidanthera/OpenCorePkg)与[Mechrevo-X6Ti-OpenCore](https://github.com/YuZhangWang/Mechrevo-X6Ti-OpenCore)制作,不保证兼容其他类似机型
-自带
-Monterey的蜂窝网络驱动为[AirportItwm](https://github.com/OpenIntelWireless/itlwm/)，安装完成即可使用
+
+自带Monterey的蜂窝网络驱动为[AirportItwm](https://github.com/OpenIntelWireless/itlwm/)，安装完成即可使用
+
 BigSur与Catalina的蜂窝网络驱动为[Itwm](https://github.com/OpenIntelWireless/itlwm/)，需要配合[Macsoftward](./Macsoftward)文件夹中的[HeliPort](https://github.com/OpenIntelWireless/HeliPort)应用使用
 
 ## 文件夹内容说明
 - [Macsoftward](./Macsoftward)为安装和调试黑苹果可能会用到的Mac软件
+
 - [Winsoftward](./Winsoftward/)为安装和调试黑苹果可能会用到的Mac软件
+
 - [Monterey](./Mechrevo-X6Ti-m2-OpenCore/Monterey/)为安装BigSur所需引导OC
+
 - [BigSur](./Mechrevo-X6Ti-m2-OpenCore/BigSur/)为安装BigSur所需引导OC
+
 - [Catalina](./Mechrevo-X6Ti-m2-OpenCore/Catalina/)为安装Catalina所需引导OC
+
 - [Mechrevo-X6Ti-m2-OpenCore-v](./Mechrevo-X6Ti-m2-OpenCore-v/)为安装此机型-v模式的OC引导
 
 ## 安装步骤
