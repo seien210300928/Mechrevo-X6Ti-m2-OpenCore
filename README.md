@@ -10,7 +10,7 @@ BigSur与Catalina的蜂窝网络驱动为[Itwm](https://github.com/OpenIntelWire
 ## 文件夹内容说明
 - [Macsoftward](./Macsoftward)为安装和调试黑苹果可能会用到的Mac软件
 
-- [Winsoftward](./Winsoftward/)为安装和调试黑苹果可能会用到的Mac软件
+- [Winsoftward](./Winsoftward/)为安装和调试黑苹果可能会用到的Windows软件
 
 - [Monterey](./Mechrevo-X6Ti-m2-OpenCore/Monterey/)为安装BigSur所需引导OC
 
